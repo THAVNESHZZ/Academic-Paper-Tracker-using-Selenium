@@ -1,0 +1,12 @@
+# Core
+requests>=2.31.0
+arxiv>=2.1.0
+feedparser>=6.0.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Scheduling (enhanced tracker)
+schedule>=1.2.0
+
+# Optional — only needed if you scrape Scholar with a real browser
+# selenium>=4.0.0
